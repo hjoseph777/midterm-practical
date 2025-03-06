@@ -1,5 +1,5 @@
 # Computer Parts Catalog
-##[click Url link main page](https://hjoseph777.github.io/midterm-practical/)
+## [click Url link main page](https://hjoseph777.github.io/midterm-practical/)
 
 A modern, responsive web application for browsing and managing computer parts inventory. Built as a practical demonstration of React concepts for the midterm project.
 
