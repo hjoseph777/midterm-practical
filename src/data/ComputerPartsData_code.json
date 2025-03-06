@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Intel Core i9-12900K",
+    "description": "12th Gen Intel Core i9 desktop processor with 16 cores (8P+8E) and 24 threads, up to 5.2 GHz turbo frequency, 30MB cache, and support for DDR5 memory."
+  },
+  {
+    "id": 2,
+    "name": "NVIDIA GeForce RTX 3080",
+    "description": "High-end graphics card featuring 10GB GDDR6X memory, 8704 CUDA cores, and ray tracing capabilities. Perfect for 4K gaming and intensive graphic workloads."
+  },
+  {
+    "id": 3,
+    "name": "Samsung 980 PRO SSD 1TB",
+    "description": "PCIe 4.0 NVMe SSD with read speeds up to 7,000 MB/s and write speeds up to 5,000 MB/s. Offers exceptional performance for gaming, graphics, and data-intensive applications."
+  },
+  {
+    "id": 4,
+    "name": "Corsair Vengeance RGB Pro 32GB",
+    "description": "High-performance DDR4 memory kit with RGB lighting, 32GB (2x16GB), optimized for Intel and AMD motherboards, and supports XMP 2.0 for easy overclocking."
+  },
+  {
+    "id": 5,
+    "name": "ASUS ROG Strix Z690-E Gaming",
+    "description": "ATX motherboard with LGA 1700 socket, support for DDR5 memory, PCIe 5.0, WiFi 6E, USB 3.2 Gen 2x2 Type-C, and extensive cooling options for high-performance builds."
+  }
+]

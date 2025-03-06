@@ -1,0 +1,1 @@
+offecho Installing required dependencies...call npm install --save-dev postcss postcss-preset-env autoprefixerecho Downgrading Next.js to a stable version...call npm install next@13.4.0echo Creating .nojekyll file...echo.  All done! Now you can run "npm run deploy"

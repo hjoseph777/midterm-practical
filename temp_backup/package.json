@@ -1,0 +1,30 @@
+{
+  "name": "midterm-practical",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://hjoseph777.github.io/midterm-practical",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next export",
+    "predeploy": "npm run build",
+    "deploy": "node deploy.js"
+  },
+  "dependencies": {
+    "next": "13.5.8",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.16.0",
+    "@types/react": "18.2.0",
+    "@types/react-dom": "18.2.0",
+    "autoprefixer": "10.4.20",
+    "gh-pages": "5.0.0",
+    "postcss": "8.5.3",
+    "postcss-preset-env": "10.1.5",
+    "typescript": "5.0.4"
+  }
+}

@@ -1,0 +1,49 @@
+.detailsContainer {
+  padding: 25px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-top: 4px solid #3498db;
+  transition: all 0.3s ease;
+}
+
+.detailsContainer:hover {
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+.itemName {
+  margin-top: 0;
+  color: #2c3e50;
+  font-size: 24px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid #eee;
+}
+
+.itemDescription {
+  color: #34495e;
+  line-height: 1.7;
+  margin: 20px 0;
+  font-size: 16px;
+  background-color: #f9fafb;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.itemMeta {
+  font-size: 14px;
+  color: #7f8c8d;
+  padding-top: 15px;
+  margin-top: 15px;
+  border-top: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.itemId {
+  font-weight: bold;
+  background-color: #f0f7fd;
+  padding: 5px 10px;
+  border-radius: 20px;
+  color: #3498db;
+}
